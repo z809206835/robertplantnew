@@ -1,0 +1,32 @@
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+
+
+body{
+	font-family: "ZEPPELIN 2", serif;
+	font-size: 30px;
+	line-height: 1.2;
+	font-weight: 450;
+	margin: 0 auto;
+	background-color: #000000;
+	color: #E5E5E5;
+}
+
+h1{
+	color: #EAB93C;
+	text-decoration: none;
+	font-family: Kashmir,serif;
+}
+
+h2,h3,h4{
+	text-decoration: none;
+	font-family: 'ZEPPELIN 2', cursive;
+	display: block;
+}
+
+a{
+	text-decoration: none;
+}
